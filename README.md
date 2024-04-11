@@ -20,3 +20,6 @@
 1. `#insert_at(value, index)` that inserts a new node with the provided `value` at the given `index`.
 2. `#remove_at(index)` that removes the node at the given `index`.
 **Extra Credit Tip:** When you insert a node, consider how it will affect the existing nodes. Some of the nodes will need their `#next_node` link updated.
+
+## How to run code
+Enter `ruby ./lined_list.rb` in terminal
